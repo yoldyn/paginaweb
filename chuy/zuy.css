@@ -1,0 +1,39 @@
+body {
+  font-family: 'Lilita One', cursive;
+ background-image: url(fondo.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+  margin: 0;
+  color: rgba(58, 4, 33, 0.801);
+}
+ 
+li {
+  list-style: none;
+  margin-right: 30px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color:darkgray;
+}
+
+ ul{display: flex;}
+
+ a{
+  text-decoration: none;
+  color: darkgray;
+ }
+ a:hover{
+  color: red;
+ }
+ 
+ .titulo{
+  text-align: center;
+  margin-top: 148px;
+ }
+ 
+ h1{font-size: 50px;}
+ 
+ 
